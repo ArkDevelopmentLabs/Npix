@@ -1,0 +1,6 @@
+flask
+discord.py
+requests
+typer
+base64
+uuid
